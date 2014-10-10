@@ -1,0 +1,246 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  cd DEMO
+   84  touch README.md
+   85  git init
+   86  git add README.md
+   87  git commit -m  "First Commit"
+   88  git init
+   89  git add -A
+   90  git commit -a
+   91  git remote add origin https://github.com/stephenkeane76/DEMO
+   92  git push -u origin master
+   93  git push -u origin master
+   94  git push -u origin master
+   95  export http_proxy=http://localhost:3128
+   96  sudo -E apt-get install git
+   97  git config --global user.email x00081541@ittd.ie
+   98  git config --global user.name stephenkeane76
+   99  ls
+  100  cd EAA-Week2
+  101  ls
+  102  touch setup.sh
+  103  ls
+  104  gedit setup.sh
+  105  gedit setup.sh
+  106  git add -A
+  107  git commit -a
+  108  git push origin master
+  109  ls
+  110  cd
+  111  less /proc/cpuinfo
+  112  export GIT_SSL_NO_VERIFY=1
+  113  export http_proxy=http://localhost:3128
+  114  sudo -E apt-get install git
+  115  git config --global user.email x00081541@ittd.ie
+  116  git config --global user.name stephenkeane76
+  117  ls
+  118  cd EAA-Week2
+  119  ls
+  120  cd
+  121  cat /proc/cpuinfo | grep processor | wc -l
+  122  cd EAA-Week2
+  123  gedit firstscript.sh
+  124  git add -A
+  125  git commit -a
+  126  git push origin master
+  127  git push origin master
+  128  ls
+  129  mkdir scripts
+  130  cd scripts
+  131  touch hw.sh
+  132  gedit hw.sh
+  133  cd..
+  134  cd ..
+  135  ls
+  136  gedit firstscript.sh
+  137  sh ./firstscript.sh
+  138  chmod +x firstscript.sh
+  139  git add -A
+  140  git commit -a
+  141  git push origin master
+  142  ls
+  143  cd scripts
+  144  sh ./hw.sh
+  145  ch,od +x hw.sh
+  146  chmod +x hw.sh
+  147  git add -A
+  148  git commit -a
+  149  git push origin master
+  150  gedit hw.sh
+  151  git add -A
+  152  git commit -a
+  153  git push origin master
+  154  touch data.sh
+  155  gedit data.sh
+  156  sh ./data.sh
+  157  chmod +x data.sh
+  158  git add -A
+  159  git commit -a
+  160  git push origin master
+  161  touch diary.sh
+  162  gedit diary.sh
+  163  git add -A
+  164  git commit -a
+  165  git push origin master
+  166  cd
+  167  ls
+  168  mkdir EAA-Week4
+  169  cd EAA-Week4
+  170  touch script1
+  171  ls
+  172  gedit script1
+  173  re script1
+  174  rm script1
+  175  ls
+  176  touch script1.sh
+  177  ls
+  178  gedit script1.sh
+  179  git add -A
+  180  export GIT_SSL_NO_VERIFY=1
+  181  export http_proxy=http://localhost:3128
+  182  sudo -E apt-get install git
+  183  git init
+  184  git add -A
+  185  git commit -a
+  186  git push origin master
+  187  chmod +x EAA-Week4
+  188  chmod +x script1.sh
+  189  git push origin master
+  190  git push origin master
+  191  git init
+  192  git add -A
+  193  git commit -a
+  194  cd ..
+  195  touch READ.md
+  196  git init
+  197  git add -A
+  198  git commit -a
+  199  ls
+  200  cd EAA-Week4
+  201  ls
+  202  mkdir week4
+  203  cd week4
+  204  cd ..
+  205  touch README.md
+  206  git init
+  207  git add -A
+  208  git commit -a
+  209  git push origin master
+  210  git push -u origin master
+  211  git remote add origin https://github.com/stephenkeane76/DEMO.git
+  212  git push -u origin master
+  213  git remote add origin https://github.com/stephenkeane76/EAA-Week4.git
+  214  rm EAA-Week4
+  215  cd
+  216  ls
+  217  rm EAA-Week4
+  218  rm EAA-Week4 dir
+  219  rm -r EAA-Week4
+  220  ls
+  221  cd EAA-Week4
+  222  ls
+  223  git remote add origin https://github.com/stephenkeane76/EAA-Week4.git
+  224  git push -u origin master
+  225  git push -u origin master
+  226  touch README.md
+  227  git init
+  228  git add -A
+  229  git commit -a
+  230  git push origin master
+  231  https://github.com/stephenkeane76/EAA-Week4.git
+  232  git remote add origin https://github.com/stephenkeane76/EAA-Week4.git
+  233  git push origin master
+  234  touch script1.sh
+  235  gedit script1.sh
+  236  git add -A
+  237  git commit -a
+  238  git push origin master
+  239  git push origin master
+  240  ls
+  241  gedit script1.sh
+  242  git add -A
+  243  git commit -a
+  244  git push origin master
+  245  history
+  246  history > history.txt
